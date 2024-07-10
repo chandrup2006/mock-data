@@ -1,0 +1,251 @@
+loan_id,applicant_name,loan_amount,interest_rate,loan_duration_months,property_value,property_type,credit_score,employment_status,approval_status
+1,Anstice Pavis,896237.8,0.0105,304,657719.77,Condo,762,Self-Employed,true
+2,Devon Walding,235188.85,0.0394,324,576643.88,Apartment,447,Self-Employed,true
+3,Annabal Finnimore,8377.69,0.0708,209,110681.94,Townhouse,808,Employed,false
+4,Oralee Lipyeat,99230.09,0.0171,205,73276.47,Apartment,726,Self-Employed,true
+5,Marlin Satchel,171024.72,0.0863,237,151475.68,Apartment,623,Self-Employed,false
+6,Morgun Fauguel,686451.5,0.0128,155,271867.82,Condo,548,Unemployed,false
+7,Shaine Bour,399587.51,0.018,74,635220.83,Single Family Home,670,Employed,true
+8,Caleb Cowthart,762733.85,0.0773,164,212035.79,Condo,779,Self-Employed,false
+9,Gregor Rosenfrucht,371038.45,0.0963,337,598012.62,Townhouse,363,Self-Employed,false
+10,Tobit Cockram,511931.34,0.0482,201,223404.95,Condo,821,Employed,false
+11,Kelci Oguz,158669.37,0.0472,306,634606.9,Single Family Home,635,Self-Employed,false
+12,Bonita Di Matteo,667078.09,0.051,137,852595.88,Condo,591,Self-Employed,false
+13,Druci Flay,8181.77,0.0911,346,865908.97,Single Family Home,495,Employed,false
+14,Marja Kyndred,232711.41,0.0361,359,645691.12,Single Family Home,700,Self-Employed,false
+15,Roanne Mobley,346262.3,0.0905,318,567797.34,Apartment,487,Unemployed,true
+16,Chaunce Jermyn,723251.62,0.0303,181,828423.47,Condo,501,Employed,false
+17,Lotty Smallpeice,845920.25,0.0112,173,528124.37,Apartment,694,Employed,false
+18,Myrah Briars,846438.96,0.078,278,719970.24,Townhouse,656,Employed,true
+19,Harri Flaherty,584560.71,0.0178,297,399866.12,Apartment,698,Unemployed,false
+20,Roselin Whitechurch,97961.08,0.0787,164,68438.8,Townhouse,761,Employed,false
+21,Felike McNevin,357081.38,0.0143,185,234709.06,Apartment,726,Unemployed,false
+22,Leighton Pepperd,537691.2,0.0834,57,530266.49,Single Family Home,305,Employed,true
+23,Windham McSperron,289137.12,0.0243,62,177155.4,Apartment,600,Self-Employed,false
+24,Marilyn Vanyashin,687083.66,0.0112,269,241947.62,Condo,632,Unemployed,false
+25,Wainwright Ughelli,799470.53,0.0109,192,964330.21,Apartment,330,Employed,false
+26,Charis Magrannell,875367.04,0.0356,357,657963.54,Townhouse,573,Self-Employed,false
+27,Garek McElhinney,205683.1,0.0323,99,136736.66,Single Family Home,777,Unemployed,false
+28,Hamel Seys,92017.18,0.0386,298,368908.33,Townhouse,310,Unemployed,true
+29,Sam Brailey,335442.1,0.0265,37,955523.48,Condo,573,Unemployed,true
+30,Helaina McMurthy,315220.11,0.0409,100,457476.53,Apartment,450,Unemployed,false
+31,Glyn Waycot,746931.29,0.0897,197,72812.6,Apartment,356,Self-Employed,true
+32,Cliff Brittan,910837.49,0.0577,58,200789.66,Townhouse,331,Unemployed,true
+33,Nichole Jocic,4345.73,0.076,160,679214.38,Townhouse,843,Unemployed,false
+34,Donnie Penn,936363.17,0.0259,178,840951.93,Apartment,373,Unemployed,true
+35,Normand Greatham,590667.37,0.098,109,666176.28,Apartment,640,Employed,false
+36,Ester Pollicott,883325.26,0.0416,44,284045.84,Apartment,421,Unemployed,false
+37,Pryce Bridywater,501889.24,0.0933,206,107805.11,Townhouse,774,Unemployed,true
+38,Domeniga Outerbridge,762932.45,0.0637,185,711792.3,Condo,306,Self-Employed,true
+39,Eleonora Colaco,133319.81,0.0759,13,500060.73,Single Family Home,442,Employed,true
+40,Erskine McCrohon,957610.83,0.0567,156,366960.98,Apartment,463,Unemployed,true
+41,Ed De Ruggiero,883719.97,0.0967,171,762910.4,Single Family Home,761,Self-Employed,true
+42,Osmond Casperri,958228.89,0.0118,140,549058.84,Townhouse,614,Self-Employed,false
+43,Valentia Eastop,645615.78,0.058,314,86656.33,Apartment,378,Employed,true
+44,Kaitlin Delagua,381212.57,0.0719,73,817674.17,Townhouse,388,Self-Employed,false
+45,Keelby Baudry,546548.31,0.021,234,484716.5,Single Family Home,581,Unemployed,true
+46,Pincus Yuill,602497.0,0.033,311,340197.72,Apartment,331,Self-Employed,false
+47,Agnese Ginnane,296790.34,0.0257,212,371226.99,Apartment,700,Employed,true
+48,Jaymie Hughill,535129.84,0.0839,322,372282.18,Condo,433,Employed,true
+49,Gabriel Lahrs,205236.78,0.0796,19,679521.32,Apartment,325,Employed,true
+50,Gill Tebald,94906.62,0.0999,39,207133.96,Townhouse,495,Unemployed,true
+51,Blisse Kerman,388260.24,0.0576,108,130666.5,Townhouse,305,Employed,true
+52,Myrna Hastin,364579.27,0.0126,158,81555.51,Single Family Home,823,Self-Employed,false
+53,Storm McIlroy,247774.95,0.0268,115,734731.98,Single Family Home,794,Unemployed,true
+54,Evania Bendall,51330.62,0.0279,100,190128.53,Condo,583,Employed,true
+55,Demetris D'Souza,631053.34,0.0848,285,385079.0,Townhouse,464,Unemployed,false
+56,Erny Jenckes,653467.1,0.0259,140,986820.31,Townhouse,699,Unemployed,true
+57,Charmian Duell,38019.1,0.0789,109,770560.32,Condo,323,Unemployed,false
+58,Elladine Milne,315120.26,0.0469,54,843309.68,Single Family Home,615,Employed,false
+59,Kristyn Sidgwick,435537.23,0.057,13,394982.66,Townhouse,481,Self-Employed,true
+60,Akim Essery,997657.94,0.0346,37,970186.52,Condo,654,Unemployed,true
+61,Zarah Lewendon,710592.48,0.0171,286,304791.83,Condo,522,Unemployed,true
+62,Leigh Danne,583293.25,0.0802,92,795939.59,Single Family Home,333,Unemployed,false
+63,Caril Muggleston,769029.22,0.0835,218,258126.91,Apartment,616,Employed,false
+64,Cosetta Kemwal,131147.81,0.0235,327,704817.56,Condo,676,Self-Employed,true
+65,Jsandye Sizeland,831690.94,0.0897,16,623782.48,Condo,683,Employed,true
+66,Willyt Lomasna,937802.55,0.0419,96,87231.29,Townhouse,823,Self-Employed,true
+67,Rosa Lippo,284603.24,0.0713,169,637882.99,Condo,332,Employed,true
+68,Arnoldo Loomes,732007.28,0.0838,83,118283.24,Condo,717,Unemployed,true
+69,Janeen Onraet,594013.82,0.0555,233,817355.67,Single Family Home,496,Employed,false
+70,Adelle Horney,399369.1,0.0271,352,582274.8,Condo,599,Unemployed,true
+71,Elliot Chitter,927052.93,0.0728,108,245333.41,Single Family Home,743,Employed,true
+72,Camey Titterrell,976119.91,0.0609,55,603267.46,Townhouse,747,Employed,false
+73,Bernadina Gecke,515873.88,0.0184,206,978407.24,Condo,815,Employed,true
+74,Dollie Gudgeon,183312.05,0.054,98,126742.87,Townhouse,496,Self-Employed,true
+75,Hildagarde Twohig,851400.88,0.0879,139,169827.41,Townhouse,308,Self-Employed,true
+76,Tomlin Shephard,295029.25,0.0334,159,403980.78,Townhouse,621,Self-Employed,false
+77,Shannah Sutherden,668981.02,0.0668,133,881051.19,Single Family Home,477,Unemployed,true
+78,Gabriell Badby,455207.76,0.0643,54,128371.35,Single Family Home,615,Self-Employed,false
+79,Sherwynd Chattaway,463667.85,0.0412,51,972840.31,Condo,814,Self-Employed,false
+80,Selena Margett,787413.58,0.0574,310,698651.06,Apartment,493,Self-Employed,false
+81,August Devo,798068.36,0.0195,238,588129.13,Single Family Home,412,Unemployed,true
+82,Jeremy Donner,199446.6,0.0779,302,754774.5,Townhouse,344,Employed,false
+83,Grantham Limeburn,468160.18,0.0901,143,885537.84,Apartment,619,Self-Employed,false
+84,Gaelan Furmage,385266.6,0.0142,331,217361.51,Single Family Home,472,Employed,false
+85,Joby Skurm,506815.45,0.0716,254,360194.33,Condo,500,Employed,true
+86,Benedetta Yarwood,253098.66,0.0735,264,872915.3,Apartment,437,Employed,true
+87,Giraud Geater,4718.59,0.0219,299,802979.44,Townhouse,782,Self-Employed,false
+88,Basilius Coysh,708065.99,0.0757,17,272299.98,Single Family Home,828,Unemployed,true
+89,Dillon Marquot,716102.86,0.0263,239,649920.99,Townhouse,592,Employed,true
+90,Sandye Grishkov,508827.02,0.0588,316,690524.9,Apartment,596,Unemployed,false
+91,Base Thamelt,741287.14,0.0444,264,894700.38,Apartment,835,Self-Employed,false
+92,Neron Povlsen,645619.03,0.0363,159,317467.92,Single Family Home,581,Self-Employed,false
+93,Rivy Janaszewski,710422.13,0.0322,155,197956.97,Single Family Home,670,Employed,false
+94,Isidoro Rudwell,785016.16,0.0337,144,476961.36,Apartment,581,Employed,false
+95,Jase Pallis,713831.45,0.0457,140,638652.46,Apartment,326,Self-Employed,true
+96,Abraham Benoist,110569.67,0.0798,129,235359.89,Apartment,539,Employed,false
+97,Boot Joss,645408.75,0.0312,160,818129.79,Townhouse,760,Unemployed,false
+98,Feliza Haggidon,749790.63,0.0241,354,603977.4,Single Family Home,635,Unemployed,false
+99,Barbara Crum,834082.71,0.0295,347,824605.5,Apartment,344,Self-Employed,false
+100,Chrysa Banthorpe,216576.25,0.0888,126,560720.6,Condo,404,Self-Employed,true
+101,Del Wabersinke,23200.34,0.097,312,548453.03,Apartment,682,Unemployed,false
+102,Beryl Saull,541035.81,0.0297,55,67598.03,Apartment,483,Self-Employed,false
+103,Anitra Rothwell,655144.38,0.024,344,806124.51,Single Family Home,839,Unemployed,true
+104,Merrilee Bowmer,990671.65,0.0112,352,183612.67,Single Family Home,320,Self-Employed,false
+105,Lindy Freeburn,248924.51,0.0409,227,260048.34,Single Family Home,320,Unemployed,false
+106,Meggie Rivalant,219888.64,0.041,178,955912.94,Townhouse,777,Self-Employed,true
+107,Bartholomew Saulter,83653.55,0.0317,176,612660.25,Condo,688,Self-Employed,true
+108,Yolane Ure,713406.49,0.0144,286,997877.74,Apartment,586,Employed,false
+109,Aeriell Baston,670193.17,0.0146,31,478150.38,Townhouse,512,Unemployed,true
+110,Humbert Adhams,499781.24,0.0882,163,543324.31,Townhouse,528,Self-Employed,false
+111,Cecilio Milmoe,533602.77,0.0432,252,170631.28,Apartment,456,Employed,true
+112,Christina Sandy,834391.85,0.0367,24,99184.59,Townhouse,688,Unemployed,false
+113,Cordie Livesay,4418.03,0.0159,61,847038.69,Single Family Home,472,Self-Employed,true
+114,Martica Bathersby,121130.76,0.0281,226,892086.33,Townhouse,370,Self-Employed,false
+115,Andie McEneny,26415.49,0.0639,352,523266.92,Single Family Home,671,Unemployed,false
+116,Herve Baggalley,129578.45,0.0611,354,737322.97,Apartment,700,Employed,true
+117,Kandy Exrol,862252.04,0.0427,291,278697.21,Townhouse,406,Employed,true
+118,Enid Swinnerton,141674.0,0.0691,43,644600.53,Single Family Home,465,Self-Employed,true
+119,Josselyn Cowmeadow,428798.33,0.0703,63,633086.1,Single Family Home,527,Unemployed,true
+120,Celene Chestnut,248203.84,0.0101,17,288153.18,Apartment,426,Unemployed,false
+121,Sheila-kathryn Feaveryear,666024.7,0.0504,152,81382.96,Townhouse,843,Self-Employed,true
+122,Phil Barefoot,717108.5,0.0687,248,420768.02,Townhouse,693,Employed,true
+123,Clyve Coplestone,383813.29,0.069,155,883069.48,Apartment,433,Self-Employed,true
+124,Derwin Kless,749955.72,0.0718,331,801996.96,Single Family Home,378,Employed,false
+125,Aurthur Lagne,447584.64,0.0531,132,257991.94,Single Family Home,581,Self-Employed,true
+126,Brenna McCorrie,431008.14,0.0892,265,175992.75,Townhouse,826,Self-Employed,false
+127,Sidney Domaschke,603308.01,0.0265,236,592840.0,Single Family Home,342,Unemployed,true
+128,Trudey Dewberry,99254.1,0.0321,164,723178.55,Condo,517,Unemployed,true
+129,Ame Upcott,448208.93,0.0883,200,276923.82,Apartment,417,Employed,false
+130,Hillel Doxey,346612.05,0.0359,240,234226.74,Apartment,578,Employed,false
+131,Sybyl Cook,746381.93,0.087,42,844371.82,Apartment,392,Self-Employed,true
+132,Maurise Ferrai,616338.54,0.0559,160,651475.11,Apartment,627,Employed,true
+133,Marena Mellon,957301.66,0.0302,303,486933.5,Townhouse,485,Unemployed,false
+134,Emeline Murie,479538.77,0.0351,309,405081.42,Townhouse,618,Self-Employed,false
+135,Salvatore Cozins,231118.61,0.0792,341,320501.66,Apartment,482,Employed,false
+136,Codi Faithfull,51854.45,0.0174,183,571949.95,Townhouse,377,Unemployed,true
+137,Quinton Swale,814157.55,0.0494,360,871972.99,Apartment,448,Employed,false
+138,Diahann Robe,447513.92,0.0331,113,288875.67,Condo,547,Employed,true
+139,Daphene Ringer,491014.86,0.012,242,693874.17,Townhouse,516,Self-Employed,true
+140,Diann Punshon,330169.84,0.076,181,605889.62,Single Family Home,412,Employed,true
+141,Dorri Boldock,582897.99,0.0166,118,528804.7,Condo,437,Self-Employed,true
+142,Quincey Escale,925526.28,0.072,118,825921.65,Townhouse,741,Unemployed,false
+143,Berkley Skedgell,246105.24,0.0419,215,233558.68,Townhouse,542,Unemployed,true
+144,Diannne Toffel,456128.68,0.0664,165,612625.45,Single Family Home,415,Self-Employed,false
+145,Arvy Renneke,80960.44,0.0351,311,543532.58,Single Family Home,792,Employed,true
+146,Kirsti Plues,487918.0,0.0253,252,914122.7,Condo,311,Employed,false
+147,Nester Linger,648626.72,0.0946,110,780222.58,Single Family Home,554,Unemployed,true
+148,Dian Ciccone,474738.02,0.0242,290,989324.47,Condo,780,Self-Employed,false
+149,Tye Blood,323722.88,0.0289,50,438006.02,Townhouse,672,Self-Employed,false
+150,Sascha Beadel,62565.39,0.0347,225,446307.29,Townhouse,669,Unemployed,true
+151,Kelbee holmes,529626.38,0.0234,116,642861.43,Apartment,526,Self-Employed,true
+152,Dilly Service,582638.96,0.0461,314,792894.93,Single Family Home,719,Employed,true
+153,Drona Edling,888817.52,0.0577,206,819050.94,Apartment,345,Unemployed,true
+154,Quincy Nunnery,505148.68,0.0438,157,163873.37,Apartment,372,Unemployed,false
+155,Meredith Celloni,820503.36,0.0856,98,274828.96,Townhouse,767,Employed,false
+156,Margaretha Fancutt,409931.17,0.0245,154,844377.72,Condo,441,Unemployed,false
+157,Sandye Creigan,59288.02,0.0283,67,393295.05,Single Family Home,543,Unemployed,true
+158,Kirbee Rameaux,712462.14,0.0711,68,226009.55,Condo,471,Self-Employed,true
+159,Fabio Lemanu,116946.59,0.0908,140,655502.16,Single Family Home,653,Employed,true
+160,Jeniffer Faccini,595013.02,0.0577,167,738675.57,Apartment,302,Employed,true
+161,Orly Shand,246958.65,0.058,199,339257.57,Townhouse,515,Self-Employed,true
+162,Zackariah De Normanville,515907.7,0.0485,290,115438.66,Condo,847,Self-Employed,true
+163,Rubi Bawdon,767265.42,0.0687,20,154832.02,Apartment,662,Self-Employed,false
+164,Allyn Brandacci,486121.34,0.0373,291,806784.6,Townhouse,788,Employed,false
+165,Janie Curman,773205.88,0.0748,201,521637.47,Single Family Home,743,Unemployed,false
+166,Rochette Schukert,510364.99,0.0205,343,273356.15,Apartment,609,Unemployed,true
+167,Angy Stace,138124.41,0.0299,157,736185.85,Condo,376,Self-Employed,true
+168,Adeline Corwood,319302.01,0.0623,314,527510.88,Single Family Home,313,Self-Employed,true
+169,Garth Way,314503.09,0.0864,292,261986.71,Single Family Home,829,Unemployed,false
+170,Sibley Schade,598942.52,0.017,130,744579.02,Apartment,641,Self-Employed,true
+171,Phillip Thrift,734987.6,0.0206,259,138895.43,Townhouse,680,Self-Employed,false
+172,Purcell O'Crigan,564499.23,0.0108,289,122978.88,Single Family Home,307,Unemployed,false
+173,Gertrudis Haddinton,691570.4,0.0298,325,700544.26,Condo,649,Unemployed,true
+174,Brynne Noir,719938.37,0.0539,182,294408.05,Single Family Home,648,Self-Employed,false
+175,Alexandros Mattson,614036.14,0.0133,307,730215.21,Townhouse,633,Unemployed,true
+176,Adrien Windaybank,561928.01,0.0494,360,426634.22,Apartment,639,Employed,false
+177,Neville Dicken,213242.89,0.0292,312,660460.22,Apartment,506,Employed,false
+178,Tom Franchi,154594.16,0.0979,89,750927.39,Condo,675,Unemployed,false
+179,Berget Salmons,571124.56,0.0778,293,447499.35,Apartment,685,Unemployed,false
+180,Rubia Pimerick,422776.94,0.096,218,518551.3,Apartment,326,Unemployed,true
+181,Nicola Gillitt,609228.61,0.0787,142,368605.45,Condo,386,Employed,true
+182,Udell Dunstall,895423.84,0.0154,317,642748.28,Single Family Home,512,Unemployed,false
+183,Kathe Do Rosario,903007.26,0.0133,308,931666.3,Condo,684,Employed,true
+184,Giustina Ashburner,18642.78,0.0363,266,853897.57,Apartment,353,Employed,false
+185,Reggy Jacques,62342.92,0.0218,260,340075.61,Apartment,630,Self-Employed,false
+186,Karyl Blofield,168534.17,0.0262,342,360114.18,Apartment,534,Employed,false
+187,Etan Tytler,37655.86,0.0177,283,563476.88,Apartment,400,Unemployed,true
+188,Jessey Mateu,410310.48,0.092,246,155740.65,Condo,842,Unemployed,true
+189,Owen Banisch,495992.21,0.0731,121,375913.74,Apartment,808,Unemployed,true
+190,Gil Lyenyng,861313.56,0.0692,70,486111.11,Townhouse,779,Self-Employed,true
+191,Georgiana Ezzle,948101.22,0.0235,311,601225.07,Townhouse,828,Self-Employed,false
+192,Nickie Willis,422323.49,0.078,19,527393.93,Single Family Home,615,Unemployed,false
+193,Herc Pendlenton,652713.27,0.0674,131,711538.93,Apartment,503,Self-Employed,false
+194,Elyse Gobourn,362236.77,0.0379,98,72204.03,Apartment,561,Employed,true
+195,Nicolette Coultous,157757.98,0.0197,146,741707.33,Single Family Home,807,Self-Employed,true
+196,Yoshi Gilmour,455275.94,0.0234,47,927605.32,Single Family Home,847,Self-Employed,true
+197,Stearn Vaney,949778.86,0.0358,171,192840.07,Condo,470,Employed,true
+198,Roseann Berfoot,747832.0,0.0626,146,234491.62,Apartment,355,Self-Employed,true
+199,Donny Elph,111111.46,0.0794,200,409324.9,Condo,601,Self-Employed,true
+200,Wenona MacConchie,638459.68,0.0175,258,592374.0,Townhouse,368,Self-Employed,false
+201,Bradford Wilse,960239.77,0.0369,46,841451.03,Condo,732,Self-Employed,false
+202,Leeanne Simkins,735710.93,0.0821,347,244413.17,Condo,533,Unemployed,true
+203,Gordy Ansell,670129.8,0.0799,191,845221.98,Apartment,611,Employed,false
+204,Robenia McDavid,970198.88,0.0769,147,462106.49,Single Family Home,377,Unemployed,false
+205,Chrissie Bratten,872092.26,0.0649,12,429767.9,Condo,720,Self-Employed,true
+206,Dael Soles,493208.51,0.0442,141,392474.21,Apartment,394,Self-Employed,false
+207,Yard Penlington,34230.61,0.0857,154,257241.25,Townhouse,687,Unemployed,true
+208,Tootsie Jeffers,338508.01,0.0224,156,302139.31,Townhouse,814,Unemployed,true
+209,Lorena Pulsford,887919.88,0.039,146,137641.02,Condo,546,Self-Employed,true
+210,Peggie Liddall,300572.81,0.0778,20,947434.37,Apartment,311,Unemployed,true
+211,Selby Maslen,329011.7,0.0633,17,614500.06,Townhouse,757,Employed,true
+212,Alan Olivey,739734.41,0.0414,234,640487.53,Single Family Home,509,Unemployed,true
+213,Clari Blunkett,310906.79,0.0105,347,819441.53,Single Family Home,841,Employed,false
+214,Bernhard Faraday,943865.2,0.0741,107,927874.69,Single Family Home,361,Unemployed,false
+215,Luce Dutt,137429.14,0.0453,325,142768.21,Apartment,404,Employed,true
+216,Glenna Falcus,837415.87,0.0593,299,106355.2,Condo,354,Employed,false
+217,Noelani Toal,504893.93,0.0105,62,242205.56,Condo,378,Unemployed,true
+218,Nicolina Denisyuk,653113.65,0.0509,208,695016.64,Condo,364,Self-Employed,true
+219,Eugenio Undy,147279.97,0.0258,86,878310.41,Condo,693,Unemployed,true
+220,Burton Haville,530488.78,0.0993,304,990476.34,Single Family Home,415,Self-Employed,true
+221,Ashly McCandie,102634.53,0.0355,80,260818.76,Townhouse,370,Employed,false
+222,Caril Gissing,708648.75,0.0136,118,963958.97,Townhouse,492,Self-Employed,false
+223,Filippa Whettleton,735036.45,0.0323,197,232280.62,Single Family Home,634,Employed,false
+224,Lianna Genese,395299.15,0.0172,281,127071.28,Apartment,565,Unemployed,false
+225,Kerianne Grason,50674.7,0.0781,296,626330.94,Single Family Home,638,Self-Employed,false
+226,Aggie Dyhouse,235583.76,0.0858,151,530760.34,Single Family Home,366,Unemployed,true
+227,Iolande Penvarden,359310.03,0.0148,86,294683.85,Apartment,388,Unemployed,false
+228,Baxie Gerriets,671841.42,0.0362,38,688277.43,Townhouse,603,Employed,false
+229,Yalonda Blincow,628891.31,0.0811,193,903859.77,Condo,718,Unemployed,true
+230,Tamar Glascott,573469.6,0.0158,176,709747.06,Apartment,722,Employed,false
+231,Esmeralda Bestwerthick,62627.7,0.0685,125,561010.89,Townhouse,496,Self-Employed,true
+232,Gwyneth Oakden,544110.16,0.0806,211,279977.74,Single Family Home,598,Self-Employed,true
+233,Shae Mackneis,607655.95,0.0133,270,959125.99,Condo,459,Self-Employed,false
+234,Jo ann Varden,919800.07,0.039,39,288008.75,Single Family Home,707,Unemployed,true
+235,Terri Hearsum,659280.59,0.0976,147,748670.81,Townhouse,526,Unemployed,true
+236,Delainey Dennick,225080.13,0.0328,63,243755.98,Townhouse,422,Unemployed,true
+237,Katine Malam,195049.89,0.0783,128,708788.98,Single Family Home,645,Unemployed,true
+238,Oates Biaggioni,677175.77,0.0481,317,493224.5,Condo,505,Unemployed,true
+239,Viki Heathorn,424994.67,0.0335,98,117865.02,Townhouse,523,Self-Employed,true
+240,Misha Rassmann,399274.06,0.0136,153,465705.39,Single Family Home,468,Unemployed,true
+241,Walden Creffeild,480123.91,0.0853,139,457896.3,Single Family Home,788,Unemployed,false
+242,Loy Fencott,631712.92,0.0878,26,297654.65,Single Family Home,793,Unemployed,false
+243,Douglas McPhate,73683.72,0.0631,157,82385.84,Apartment,574,Unemployed,false
+244,Sibby Leith-Harvey,77848.02,0.0218,212,402219.21,Townhouse,679,Unemployed,true
+245,Bobbie Ashington,967164.57,0.0536,286,75312.78,Apartment,496,Employed,true
+246,Renado Ainslie,19972.3,0.0875,93,95708.68,Single Family Home,653,Self-Employed,true
+247,Vivienne Archibould,69780.84,0.0981,137,909902.68,Townhouse,564,Employed,true
+248,Adrianne Ilieve,810575.31,0.0724,65,993706.11,Condo,347,Unemployed,false
+249,Bellanca Espinola,377796.27,0.0826,90,876508.45,Townhouse,507,Unemployed,false
+250,Goraud Barrington,371102.08,0.043,101,939838.13,Condo,412,Self-Employed,true
