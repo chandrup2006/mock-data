@@ -1,0 +1,33 @@
+library(readr)
+library(dplyr)
+library(ggplot2)
+str(MOCK_DATA)
+head(MOCK_DATA)
+summary(MOCK_DATA)
+
+missing_values <- sapply(MOCK_DATA, function(x) sum(is.na(x)))
+print(missing_values)
+
+# Visualize the data
+# Histogram for numerical variables
+num_vars <- sapply(MOCK_DATA, is.numeric)
+num_data <- MOCK_DATA[, num_vars]
+
+# boxplot
+ggplot(MOCK_DATA, aes(x =loan_amount, y =property_value)) +
+  geom_boxplot(fill = "orange", color = "black") +
+  theme_minimal() +
+  labs(title = "Boxplot of Humidity by Season", x= "loan_amount", y= "property_value")
+
+# Scatter plot to show the relationship between two numeric variables (replace 'temp' and 'humidity' with appropriate column names)
+ggplot(MOCK_DATA, aes(x = loan_amount, y = property_value)) +
+  geom_point(color = "red") +
+  theme_minimal() +
+  labs(title = "Scatter Plot of Temperature vs Humidity", x = "loan_amount", y = "property_value")
+
+# Time series plot for a variable over time (replace 'date' and 'temp' with appropriate column names)
+ggplot(MOCK_DATA, aes(x = loan_amount , y = property_value)) +
+  geom_line(color = "blue") +
+  theme_minimal() +
+  labs(title = "housing finance", x = "loan_amount", y = "property_value")
+
